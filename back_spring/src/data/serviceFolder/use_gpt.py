@@ -3,7 +3,7 @@ import functions
 from functions import getSettingMessage
 
 # API-KEY
-openai.api_key = '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'
+openai.api_key = ''
 
 # messages에 user의 말을 전해주는 역할
 def messagesAppender(target, str) :
